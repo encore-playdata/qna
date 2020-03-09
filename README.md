@@ -3,7 +3,9 @@
 #### 1. [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하세요.
 ![Menu](./images/menu.jpg)
 
-#### 2. 질문 제목을 적어주세요
+#### 2. 'New Issue' 버튼을 클릭하세요. 
+
+#### 3. 질문 제목을 적어주세요
 
 `New issue` 버튼을 누르면 아래와 같이 새로운 질문을 작성할 수 있는 창이 뜹니다.
 빈칸에 질문의 제목을 입력합니다.
