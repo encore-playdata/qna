@@ -1,7 +1,5 @@
 # ✔ qna 게시판 사용법 안내
-
-
-
+<br/><br/>
 #### 1. [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하세요.
 
 ![Menu](./images/menu.jpg)
