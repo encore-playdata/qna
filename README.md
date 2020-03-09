@@ -11,7 +11,7 @@
 
 우선 질문의 제목을 입력합니다.
 
-![Title](./images/title.png)
+![Title](./images/title.jpg)
 
 ### 2. 질문 본문 작성하기
 
