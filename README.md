@@ -1,16 +1,16 @@
 ✔ qna 게시판 사용법 안내
 
-### 1. [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하세요.
-![Title](./images/title.jpg)
+#### 1. [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하세요.
+![Menu](./images/menu.jpg)
 
-### 2. 질문 제목을 적어주세요
+#### 2. 질문 제목을 적어주세요
 
 `New issue` 버튼을 누르면 아래와 같이 새로운 질문을 작성할 수 있는 창이 뜹니다.
 빈칸에 질문의 제목을 입력합니다.
 
 ![Title](./images/title.jpg)
 
-### 2. 질문 본문 작성하기
+#### 2. 질문 본문 작성하기
 
 다음은 본문을 작성합니다.
 
