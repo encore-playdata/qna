@@ -1,6 +1,6 @@
 ⬆️⬆️⬆️⬆️⬆️ 
 
-위의 메뉴 중에 [Issues](https://github.com/codestates/pre-help-desk/issues) 탭을 클릭한 후, 궁금한 내용을 질문하세요!
+위의 메뉴 중에 [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭한 후, 궁금한 내용을 질문하세요!
 
 # QnA 사용법
 
