@@ -1,14 +1,9 @@
 👀qna 게시판에 오신 것을 환영합니다👀
 
-[Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하고 'New issue' 버튼을 클릭하세요!
+[Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하면 질문을 남길 수 있습니다!
 
-# QnA 사용법
 
-## 질문하기
-
-아래 링크에서 헬프데스크 사용법을 동영상으로도 보실 수 있습니다.
-
-### 1. 질문 제목 작성하기
+### 1. 질문 제목을 적어주세요
 
 `New issue` 버튼을 누르면 아래와 같이 새로운 질문을 작성할 수 있는 창이 뜹니다.
 
