@@ -1,6 +1,6 @@
-⬆️⬆️⬆️⬆️⬆️ 
+👀qna 게시판에 오신 것을 환영합니다👀
 
-위의 메뉴 중에 [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭한 후, 궁금한 내용을 질문하세요!
+[Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하고 'New issue' 버튼을 클릭하세요!
 
 # QnA 사용법
 
