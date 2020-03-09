@@ -23,7 +23,7 @@
 
 질문할 내용을 작성합니다. 
 
-![Content](./images/content.png)
+![Content](./images/content.jpg)
 <br/>
 
 #### 5. 미리보기
