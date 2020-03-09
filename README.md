@@ -1,9 +1,12 @@
 ✔ qna 게시판 사용법 안내
 
 #### 1. [Issues](https://github.com/encore-playdata/qna/issues) 탭을 클릭하세요.
+
 ![Menu](./images/menu.jpg)
 
 #### 2. 'New Issue' 버튼을 클릭하세요. 
+
+![Btn](./images/newissuebtn.jpg)
 
 #### 3. 질문 제목을 적어주세요
 
@@ -12,31 +15,15 @@
 
 ![Title](./images/title.jpg)
 
-#### 2. 질문 본문 작성하기
+#### 4. 질문 내용 작성하기
 
-다음은 본문을 작성합니다.
+질문할 내용을 작성합니다. 
 
 ![Content](./images/content.png)
 
-### 3. 코드 작성하기
+#### 5. 미리보기
 
-코드를 입렵해야한다면, 꼭 ` ```js ``` ` 블럭 안에 입력해주세요.
-
-![Code](./images/code.png)
-
-### 4. 이미지 업로드하기
-
-질문에 이미지를 첨부하고 싶다면, 글을 작성하는 곳 바로 밑을 클릭합니다.
-
-![Image](./images/image.png)
-
-이미지를 업로드하는 창에서 이미지를 선택하면, 업로드가 진행됩니다.
-
-![Upload](./images/upload.png)
-
-### 5. 미리보기
-
-질문의 내용을 다 작성했다면, `Preview`를 눌러 생각대로 질문이 잘 표시될지 확인합니다.
+`Preview`를 눌러 질문이 잘 작성되었는지 확인하세요.
 
 ![Preview](./images/preview.png)
 
