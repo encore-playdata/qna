@@ -1,13 +1,16 @@
 # ✔ qna 게시판 사용법 안내
 <br/>
+
 #### 1. 메뉴에서 Issues 탭을 클릭하세요.
 
 ![Menu](./images/menu.jpg)
 <br/>
+
 #### 2. 'New Issue' 버튼을 클릭하세요. 
 
 ![Btn](./images/newissuebtn.jpg)
 <br/>
+
 #### 3. 질문 제목을 적어주세요
 
 `New issue` 버튼을 누르면 아래와 같이 새로운 질문을 작성할 수 있는 창이 뜹니다.
@@ -15,18 +18,21 @@
 
 ![Title](./images/title.jpg)
 <br/>
+
 #### 4. 질문 내용 작성하기
 
 질문할 내용을 작성합니다. 
 
 ![Content](./images/content.png)
 <br/>
+
 #### 5. 미리보기
 
 `Preview`를 눌러 질문이 잘 작성되었는지 확인하세요.
 
 ![Preview](./images/preview.png)
 <br/>
+
 ### 6. 라벨 달기
 
 질문에 라벨을 달면 라벨별로 편하게 검색을 할 수 있습니다.
