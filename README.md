@@ -23,14 +23,14 @@
 
 질문할 내용을 작성합니다. 
 
-![Content](./images/content.jpg)
+![Content](./images/contents.jpg)
 <br/>
 
-#### 5. 미리보기
+##### 5. 미리보기
 
 `Preview`를 눌러 질문이 잘 작성되었는지 확인하세요.
 
-![Preview](./images/preview.png)
+![Preview](./images/preview.jpg)
 <br/>
 
 ### 6. 라벨 달기
