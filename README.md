@@ -12,7 +12,7 @@
 
 `New issue` 버튼을 누르면 아래와 같이 새로운 질문을 작성할 수 있는 창이 뜹니다.
 
-![Empty](./images/empty.png)
+![start](./images/start_qna.jpg)
 
 우선 질문의 제목을 입력합니다.
 
