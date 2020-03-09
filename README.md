@@ -28,7 +28,7 @@
 
 ### 5. 미리보기
 
-`Preview`를 눌러 질문이 잘 작성되었는지 확인하세요.
+`Preview` 탭을 눌러 질문이 잘 작성되었는지 확인하세요.
 
 ![Preview](./images/preview.jpg)
 <br/>
