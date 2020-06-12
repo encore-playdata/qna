@@ -23,24 +23,3 @@ def solution(board, moves):
                 break
 
     return cnt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
