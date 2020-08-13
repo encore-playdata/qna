@@ -1,3 +1,8 @@
+# 포인트: 
+#   무조건 제일 큰 값을 가져가는 것이 아니라 
+#   그룹을 나누거나/ 나누지 않거나 두 가지 선택지 중 최선의 선택해야 함 
+# 그룹 나눠질 때마다 재귀적으로 호출
+# 각 시퀀스마다 답 저장해놓기
 class Solution:
     def solution(self, goldValues):
         self.N = N = len(goldValues)
