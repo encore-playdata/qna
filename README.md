@@ -45,6 +45,5 @@
 ### 6. 질문을 제출해주세요.
 
 `Submit new issue` 버튼을 클릭하면 질문을 제출할 수 있습니다. <br/>
-제출하신 질문은 자동으로 슬랙에도 공유됩니다. 
 
 ![Submit](./images/submit.jpg)
